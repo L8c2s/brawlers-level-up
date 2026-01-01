@@ -1,0 +1,59 @@
+{
+    "levels": {
+        "level_2": {
+            "power_points": 20,
+            "gold": 20
+        },
+        "level_3": {
+            "power_points": 30,
+            "gold": 35
+        },
+        "level_4": {
+            "power_points": 50,
+            "gold": 75
+        },
+        "level_5": {
+            "power_points": 80,
+            "gold": 140
+        },
+        "level_6": {
+            "power_points": 130,
+            "gold": 290
+        },
+        "level_7": {
+            "power_points": 210,
+            "gold": 480
+        },
+        "level_8": {
+            "power_points": 340,
+            "gold": 800
+        },
+        "level_9": {
+            "power_points": 550,
+            "gold": 1250
+        },
+        "level_10": {
+            "power_points": 890,
+            "gold": 1875
+        },
+        "level_11": {
+            "power_points": 1440,
+            "gold": 2800
+        }
+    },
+    "gears": {
+        "gadget": 1000,
+        "normal_gears": 1000,
+        "epic_gears": 1500,
+        "mythic_gears": 2000,
+        "starpower": 2000,
+        "hypercharge": 5000
+    },
+    "buffies": {
+        "gambling": {
+            "power_points": 2000,
+            "gold": 1000
+        },
+        "gems": 179
+    }
+}
